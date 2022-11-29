@@ -1,4 +1,18 @@
 
+Live APIs
+https://lic-restapi.onrender.com
+
+with routes
+
+products(plans)
+https://lic-restapi.onrender.com/products
+
+customer details
+https://lic-restapi.onrender.com/customerDetails
+
+premium payment
+https://lic-restapi.onrender.com/premiumPayment
+---------------------------------------------------------------
 with local DB
 
 coustomer details
